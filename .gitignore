@@ -1,0 +1,30 @@
+# Unreal Engine generated folders
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+
+# Local user/editor settings
+.vscode/
+.vs/
+.idea/
+*.suo
+*.user
+*.userprefs
+*.opensdf
+*.sdf
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Render outputs / local captures
+Saved/VideoCaptures/
+Saved/MovieRenders/
+Saved/Screenshots/
