@@ -28,3 +28,7 @@ Build/
 Saved/VideoCaptures/
 Saved/MovieRenders/
 Saved/Screenshots/
+
+# Local helper files
+Scripts/
+Docs/

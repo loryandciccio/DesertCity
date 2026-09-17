@@ -20,28 +20,18 @@
 			"Enabled": true
 		},
 		{
-			"Name": "MassAI",
-			"Enabled": true
+			"Name": "PythonScriptPlugin",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
 		},
 		{
-			"Name": "MassCrowd",
-			"Enabled": true
-		},
-		{
-			"Name": "ZoneGraph",
-			"Enabled": true
-		},
-		{
-			"Name": "ZoneGraphAnnotations",
-			"Enabled": true
-		},
-		{
-			"Name": "AnimNextStateTree",
-			"Enabled": true
-		},
-		{
-			"Name": "GameplayStateTree",
-			"Enabled": true
+			"Name": "EditorScriptingUtilities",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
 		}
 	]
 }
